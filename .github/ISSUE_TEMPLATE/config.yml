@@ -1,4 +1,5 @@
-blank_issues_enabled: false
+---
+blank_issues_enabled: true
 contact_links:
   - name: How to use Auto Registrar
     about: Please check out this demo to know how to use the project
